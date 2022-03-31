@@ -7,6 +7,8 @@ namespace TestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Test Program");
+
+            Console.WriteLine("TEST PROGRAM 2");
         }
     }
 }
